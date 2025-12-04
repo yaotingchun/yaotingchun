@@ -43,17 +43,27 @@
 
 ***
 
-<br><br>
-## <p>RECENT ACHIEVEMENTS: CHAMPION OF CODERUSH'25 UTM </p>
-![Screenshot 2025-01-31 003344](https://github.com/user-attachments/assets/caf2e3b4-04b4-4102-9ff4-0951fe8bfae5)
-**<p>With my teammates [Lee Jun Ler](https://github.com/JunLerLee) and [Chew Jie Sheng](https://github.com/CHEW0203).</p>**
-***
+## RECENT ACHIEVEMENTS 🥇
+- 🏆 Champion of CodeRush'25 UTM.
+- 🌟 Finalist of Monash Coding League 2025.
+- 🌟 Finalist of Programming League National 2025.
 <br><br>
 
-## <p>RECENT SEMINAR: BLOCKCHAIN TECHTALK </p>
-![Screenshot 2025-01-23 220549](https://github.com/user-attachments/assets/509179f0-2b5a-4996-9271-91514adfa36b)
-***
+## PAST PROJECT 💡
+- ⌨️ TypeStrike, a typing game implemented in C++.
+- 🗣️ Spok.io, an AI Personalized Public Speaking Coach powered by Google APIs.
 <br>
+
+## RELEVANT EXPERIENCE 💼
+- 🌟Participant of Blockchain Tech Talk 2024.
+- 🌟Participant of CODE'25 UTM.
+- 🌟Participant of Embedded LLM Workshop.
+- 🌟Participant of Prosolve National 2025 UiTM.
+- 🌟Participant of KitaHack'25.
+- 🌟Participant of Ideathon 2025 UTM.
+- 🌟Participant of CodeNection 2025.
+- 🚀 Software Department Lead of UTM Rocketry.
+- 🛡️ EXCO of Activity Team in CyberX UTM. 
 
 <h3 align="left">Frameworks & Skills</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
