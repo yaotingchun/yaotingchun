@@ -51,7 +51,7 @@
 
 ## PAST PROJECT 💡
 - ⌨️ TypeStrike, a typing game implemented in C++.
-- 🗣️ Spok.io, an AI Personalized Public Speaking Coach powered by Google APIs.
+- 🗣️ VoxLab, an AI Personalized Public Speaking Coach powered by Google APIs.
 <br>
 
 ## RELEVANT EXPERIENCE 💼
