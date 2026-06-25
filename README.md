@@ -44,9 +44,12 @@
 ***
 
 ## RECENT ACHIEVEMENTS 🥇
-- 🏆 Champion of CodeRush'25 UTM.
-- 🌟 Finalist of Monash Coding League 2025.
-- 🌟 Finalist of Programming League National 2025.
+- 🥈 1st Runner Up of ImagineHack 2026 x AOT Taylor University.
+- 🥇 Gold Award of DIGITEX 2026 x UTM.
+- 🏆 Champion of CodeRush'25 x UTM.
+- 🌟 Finalist of VHACK 2026 x Universiti Sains Malaysia.
+- 🌟 Finalist of Monash Coding League 2025 x Monash University.
+- 🌟 Finalist of Programming League National 2025 x Universiti Malaya.
 <br><br>
 
 ## PAST PROJECT 💡
@@ -55,13 +58,13 @@
 <br>
 
 ## RELEVANT EXPERIENCE 💼
-- 🌟Participant of Blockchain Tech Talk 2024.
-- 🌟Participant of CODE'25 UTM.
-- 🌟Participant of Embedded LLM Workshop.
 - 🌟Participant of Prosolve National 2025 UiTM.
 - 🌟Participant of KitaHack'25.
 - 🌟Participant of Ideathon 2025 UTM.
 - 🌟Participant of CodeNection 2025.
+- 🌟Participant of KitaHack'26.
+- 🌟Participant of UTMxHackathon 2026.
+- 🌟Participant of MyAI Future Hackathon 2026.
 - 🚀 Software Department Lead of UTM Rocketry.
 - 🛡️ EXCO of Activity Team in CyberX UTM. 
 
